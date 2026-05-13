@@ -1,2 +1,7 @@
 .
+<<<<<<< HEAD
 how merge conflicts work 
+=======
+
+I created a new branch called staging 
+>>>>>>> staging
